@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi! Welcome to my Github
+<br>
+<p>
+I'm a recent Computer Science Graduate with a passion for automating away the easy (and boring). As well as an interest in Machine Learning and Web Development.
+</p>
 
-<!--
-**gregTret/gregTret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details closed>
+<summary>Languages (Human)</summary>
+- English (Good enough) <br>- French (Proficient)<br>- Russian (Native)<br> - German (Very little)
+</details>
 
-Here are some ideas to get you started:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Recent Projects <br>
+[Image Recognition with Pytorch ](https://github.com/gregTret/pytorch)<br>
+
+Older Projects<br>
+[codeforme](https://gregtret.com/main/devtools/)<br>
+[Visualizing the Yield Curve](https://gregtret.com/main/yieldCurve/)<br>
+
+
+Check out more<br>
+[Portfolio](https://gregtret.com)<br>
+[LinkedIn](https://www.linkedin.com/in/gregorytretiakov/)
