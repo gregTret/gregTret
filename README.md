@@ -22,4 +22,3 @@ Older Projects<br>
 Check out more<br>
 [Portfolio](https://gregtret.com)<br>
 [LinkedIn](https://www.linkedin.com/in/gregorytretiakov/)
-s
