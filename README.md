@@ -12,7 +12,7 @@ I'm a recent Computer Science Graduate with a passion for automating away the ea
 </p>
 
 Recent Projects <br>
-[Image Recognition with Pytorch ](https://github.com/gregTret/pytorch)<br>
+[Image Classification with Pytorch ](https://github.com/gregTret/pytorch)<br>
 
 Older Projects<br>
 [codeforme](https://gregtret.com/main/devtools/)<br>
