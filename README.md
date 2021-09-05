@@ -6,7 +6,7 @@ I am a recent Computer Science Graduate with a passion for automating away the e
 
 <h3>What I'm working on now</h3>
 
-[Pytorch Kraken Trading Bot](https://github.com/gregTret/pytorch)<br>
+[Pytorch Kraken Trading Bot](https://github.com/gregTret/KrakenBot)<br>
 
 
 <h3>Older Projects</h3>
