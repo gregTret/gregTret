@@ -11,8 +11,8 @@ I am an experienced software developer with a passion for automating away the ea
 
 <h3>Older Projects</h3>
 
-[codeforme](https://gregtret.com/devtools/)<br>
-[Visualizing the Yield Curve](https://gregtret.com/yieldCurve/)<br>
+[codeforme](https://gregtret.ca/devtools/)<br>
+[Visualizing the Yield Curve](https://gregtret.ca/yieldCurve/)<br>
 
 
 |Human Languages I'm familiar with|Overall Proficiency|
@@ -28,5 +28,5 @@ I am an experienced software developer with a passion for automating away the ea
 
 
 >Check out more<br>
-[Portfolio](https://gregtret.com)<br>
+[Portfolio](https://gregtret.ca)<br>
 [LinkedIn](https://www.linkedin.com/in/gregorytretiakov/)
