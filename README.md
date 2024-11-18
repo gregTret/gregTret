@@ -11,6 +11,8 @@ I am an experienced software developer with a passion for automating away the ea
 <h3>Older Projects</h3>
 
 [Pytorch Kraken Trading Bot](https://github.com/gregTret/KrakenBot)<br>
+[Wealthsimple Trading Bot](https://github.com/gregTret/WealthsimpleBot)<br>
+
 [codeforme](https://gregtret.ca/devtools/)<br>
 [Visualizing the Yield Curve](https://gregtret.ca/yieldCurve/)<br>
 
