@@ -6,11 +6,11 @@ I am an experienced software developer with a passion for automating away the ea
 
 <h3>What I'm working on now</h3>
 
-[Pytorch Kraken Trading Bot](https://github.com/gregTret/KrakenBot)<br>
-
+[Video Streaming Server](https://github.com/gregTret/video_stream)<br>
 
 <h3>Older Projects</h3>
 
+[Pytorch Kraken Trading Bot](https://github.com/gregTret/KrakenBot)<br>
 [codeforme](https://gregtret.ca/devtools/)<br>
 [Visualizing the Yield Curve](https://gregtret.ca/yieldCurve/)<br>
 
