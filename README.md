@@ -1,7 +1,7 @@
 
 <h1> Welcome to Greg's Git! :wave:</h1> 
 <p>
-I am an experienced software developer with a passion for automating away the easy, repetitive and boring. I'm most interested in Machine Learning and Full Stack Web Development. My strongest languages are Python, JavaScript and Java.
+I am a software developer with a passion for automating away the easy, repetitive and boring. I'm most interested in Machine Learning and Full Stack Web Development. My strongest languages are Python, JavaScript and Java.
 </p>
 
 <h3>What I'm working on now</h3>
