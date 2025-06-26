@@ -1,34 +1,33 @@
+### Project Highlights
 
-<h1> Welcome to Greg's Git! :wave:</h1> 
-<p>
-I am a software developer with a passion for automating away the easy, repetitive and boring. I'm most interested in Machine Learning and Full Stack Web Development. My strongest languages are Python, JavaScript and Java.
-</p>
+**[KrakenBot](https://github.com/gregTret/KrakenBot)** - "Buy the Dip" Bot  
+![Python](https://img.shields.io/badge/Python-91.3%25-blue) ![PyTorch](https://img.shields.io/badge/PyTorch-ML-orange) ![Stars](https://img.shields.io/badge/⭐-11-yellow)
+- Uses image recognition to identify price lows and highs
+- Determines optimal sell points from chart patterns
+- Includes risk management for live trading
 
-<h3>What I'm working on now</h3>
+**[WealthsimpleBot](#)** - "Buy the Dip" Bot for Stocks  
+![Python](https://img.shields.io/badge/Python-100%25-blue) ![API](https://img.shields.io/badge/API-Integration-green)
+- Same image recognition strategy as KrakenBot
+- Integrates with Wealthsimple for stock/ETF trading
+- Automated portfolio management through API
 
-[Video Streaming Server](https://github.com/gregTret/video_stream)<br>
+**[Media Streaming Infrastructure](#)** - Home Movie Server  
+![Flask](https://img.shields.io/badge/Flask-Backend-red) ![Nginx](https://img.shields.io/badge/Nginx-LoadBalancer-green)
+- Streams "movies from the high seas" across home network
+- Docker containerized setup for easy management
 
-<h3>Older Projects</h3>
-
-[Pytorch Kraken Trading Bot](https://github.com/gregTret/KrakenBot)<br>
-[Wealthsimple Trading Bot](https://github.com/gregTret/WealthsimpleBot)<br>
-
-[codeforme](https://gregtret.ca/devtools/)<br>
-[Visualizing the Yield Curve](https://gregtret.ca/yieldCurve/)<br>
-
-
-|Human Languages I'm familiar with|Overall Proficiency|
-|----|-----|
-|English|Fluent|
-|French|Intermediate|
-|Russian|Native|
-|German|Beginner|
 
 
 
 <br>
 
 
->Check out more<br>
-[Portfolio](https://gregtret.ca)<br>
-[LinkedIn](https://www.linkedin.com/in/gregorytretiakov/)
+---
+<br>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gregTret&layout=compact&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+
+
+
+
